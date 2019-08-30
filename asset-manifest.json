@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movie_app_2019/static/css/main.2cce8147.chunk.css",
+    "main.js": "/movie_app_2019/static/js/main.2ba084de.chunk.js",
+    "main.js.map": "/movie_app_2019/static/js/main.2ba084de.chunk.js.map",
+    "runtime~main.js": "/movie_app_2019/static/js/runtime~main.353f3f61.js",
+    "runtime~main.js.map": "/movie_app_2019/static/js/runtime~main.353f3f61.js.map",
+    "static/js/2.b69cdd81.chunk.js": "/movie_app_2019/static/js/2.b69cdd81.chunk.js",
+    "static/js/2.b69cdd81.chunk.js.map": "/movie_app_2019/static/js/2.b69cdd81.chunk.js.map",
+    "index.html": "/movie_app_2019/index.html",
+    "precache-manifest.eb444976867985c023e51e456c7c293e.js": "/movie_app_2019/precache-manifest.eb444976867985c023e51e456c7c293e.js",
+    "service-worker.js": "/movie_app_2019/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/movie_app_2019/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/movie_app_2019/static/media/logo.5d5d9eef.svg"
+  }
+}
