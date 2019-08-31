@@ -37,7 +37,7 @@ function Food({ name, pic }) {
   return (
     <div>
       <h2>I love {name}</h2>
-      <img src={pic} alt="" />
+      <img src={pic} alt={name} />
     </div>
   );
 }
