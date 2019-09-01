@@ -4,10 +4,10 @@ body {
 }
 .loader {
   color: #fff;
-  font-size: 64px;
+  font-size: 40px;
   font-family: PT Sans, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 200;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2);
   text-align: center;
-  margin: 00px;
+  margin-top: 200px;
 }
