@@ -58,4 +58,11 @@ body,
     width: 100%;
     padding: 20px;
   }
+  .movie img {
+    position: relative;
+    top: 2px;
+    max-width: 120px;
+    width: 70%;
+    margin-right: 15px;
+  }
 }
