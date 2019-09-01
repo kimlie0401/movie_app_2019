@@ -1,11 +1,13 @@
 body {
   background-color: #2f2f2f;
   color: #ecf0f1;
-  /* color: #fff;
+}
+.loader {
+  color: #fff;
   font-size: 64px;
   font-family: PT Sans, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 200;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2);
   text-align: center;
-  margin: 00px; */
+  margin: 00px;
 }
