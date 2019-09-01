@@ -1,8 +1,18 @@
 import React from "react";
 import axios from "axios";
 import Movie from "./Movie";
+import SplitText from "react-pose-text";
 import "./App.css";
 // import { async } from "q";
+
+const charPoses = {
+  exit: { opacity: 0, y: 20 },
+  enter: {
+    opacity: 1,
+    y: 0,
+    delay: ({ charIndex }) => charIndex * 150
+  }
+};
 
 class App extends React.Component {
   state = {
@@ -32,7 +42,9 @@ class App extends React.Component {
       <div>
         {isLoading ? (
           <div class="loader">
-            <span class="loader__text">Loading..........</span>
+            <SplitText initialPose="exit" pose="enter" charPoses={charPoses}>
+              Loading..........
+            </SplitText>
           </div>
         ) : (
           <div class="movies">
